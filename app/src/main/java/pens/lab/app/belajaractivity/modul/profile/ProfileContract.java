@@ -4,7 +4,7 @@ import pens.lab.app.belajaractivity.base.BasePresenter;
 import pens.lab.app.belajaractivity.base.BaseView;
 
 /**
- * Created by fahrul on 13/03/19
+ * Created by fahrul on 13/03/19.
  */
 
 public interface ProfileContract {
